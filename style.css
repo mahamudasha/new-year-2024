@@ -84,7 +84,9 @@ padding-left: 450px;
     border-radius: 10px;
     display: flex;
     justify-content: space-between;
-    padding-top: 90px;
+    padding-top: 150px;
+    padding-right: 90px;
+    
 }
 
 .banner-two> :nth-child(1){
@@ -94,7 +96,7 @@ padding-left: 450px;
     text-align: left;
     color: #ffffff;
     display: flex;
-    padding-top: 10.5vh;
+    padding-top: 2vh;
     padding-left: 20vh;
 }
 .banner-two> :nth-child(2){
@@ -111,7 +113,7 @@ padding-left: 450px;
     font-size: 4vh;
     color: #ffffff;
     padding-left: 30vh;
-    padding-top: 7.5vh;
+    padding-top: 5vh;
     display: flex;
 }
 
