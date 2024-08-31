@@ -73,7 +73,36 @@ padding-left: 450px;
     height: 500;
     width: 802;
 }
+.group-30{
+    
+    background-image: url("images/Rectangle\ 1.png");
+    margin-left: 140vh;
+    width: 424px;
+    height: 430px;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: space-between;
+    
+}
 
+.group-4{
+  padding-right: 65%;
+  padding-bottom: 42%;
+  padding-top: 13%;
+}
+/*.group-75{
+    background-image: url("images/Rectangle\ 2.png");
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 232px;
+    margin-left: 1px;
+    position: relative;
+    display: flex;
+}
+.group-6{
+    height: 500px;
+    width: 600px;
+}*/
 .text-img{
     background-image: url("images/Vectorrr.png");
     width: 1320px;
@@ -86,7 +115,6 @@ padding-left: 450px;
     justify-content: space-between;
     padding-top: 150px;
     padding-right: 90px;
-    
 }
 
 .banner-two> :nth-child(1){
@@ -151,7 +179,7 @@ padding-left: 450px;
     padding-left: 95vh;
     padding-top: 7vh;
    }
-   .btn{
+   .lal{
     background-color: #ff0000;
     height: 45px;
     width: 110px;
@@ -171,4 +199,29 @@ padding-left: 450px;
     max-width: 465px;
     border-radius: 50%;
     padding: 6vh;
+}
+.beg-footer{
+    background-color: rgb(248, 207, 213);
+    max-height: 616px;
+    width: 1320px;
+    margin-top: 60px;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+.mail-letter{
+    margin-left: 45%;
+}
+.user-gmail{
+height: 61px;
+width: 380px;
+border-radius: 30px 0px 0px 30px;
+
+}
+.Subscribe{
+    background-color: #ff0000;
+    height: 61px;
+    width: 160px;
+    border-radius: 0px 30px 30px 0px;
+    color: white;
+    margin-bottom: 30px;
 }
